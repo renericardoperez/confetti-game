@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Confetti Game",
+  "name": "confetti Game made with React",
   "icons": [
     {
       "src": "favicon.ico",
